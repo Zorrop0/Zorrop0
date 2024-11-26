@@ -31,8 +31,8 @@ Advanced Minecraft anticheat developer.
 - Client Modification Detection
 
 ## 📫 Connect
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](your-discord-link)
-[![Spigot](https://img.shields.io/badge/Spigot-FF6F00?style=for-the-badge&logo=minecraft&logoColor=white)](your-spigot-profile)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c3aKgE4P8P)
+[![Spigot](https://img.shields.io/badge/Spigot-FF6F00?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.spigotmc.org/members/dmc5.1833637/)
 
 <!--
 **Zorrop0/Zorrop0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
