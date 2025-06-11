@@ -31,11 +31,11 @@ Advanced Minecraft anticheat developer.
 
 ## 🏅 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saxonys&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zorrop0&show_icons=true&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Saxonys&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Zorrop0&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saxonys&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorrop0&layout=compact&theme=tokyonight)  
 
 ## 📫 Connect
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/precisity)
