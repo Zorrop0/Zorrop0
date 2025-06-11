@@ -29,6 +29,14 @@ Advanced Minecraft anticheat developer.
 - Packet Analysis
 - Client Modification Detection
 
+## 🏅 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saxonys&show_icons=true&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Saxonys&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saxonys&layout=compact&theme=tokyonight)  
+
 ## 📫 Connect
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/precisity)
 [![Spigot](https://img.shields.io/badge/Spigot-FF6F00?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.spigotmc.org/members/dmc5.1833637/)
