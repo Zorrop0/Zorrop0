@@ -17,21 +17,20 @@ Advanced Minecraft anticheat developer.
 - Minimal performance overhead
 
 ## 📊 Project Highlights
-### [Storm]
-- Cutting-edge cheat detection for Minecraft servers
+### [Executioner] - Why detect cheaters when you can execute them
+- Bleeding-edge cheat prevention
 - Supports multiple server versions
 - Comprehensive logging and reporting
 - Seamless integration with popular plugins
-- API for ultimate compatibility
+- Highly informative API integration
 
 ## 🔒 Key Detection Modules
-- Movement Correction
-- Combat Analysis and Correction
+- Mitigations(Movement, Combat, Velocity, etc)
 - Packet Analysis
 - Client Modification Detection
 
 ## 📫 Connect
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c3aKgE4P8P)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/precisity)
 [![Spigot](https://img.shields.io/badge/Spigot-FF6F00?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.spigotmc.org/members/dmc5.1833637/)
 
 <!--
