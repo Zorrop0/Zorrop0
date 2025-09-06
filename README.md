@@ -5,6 +5,9 @@ Security engineer specializing in advanced threat detection and prevention syste
 
 Fullstack Java developer
 
+## Badges
+![CodeWars](https://www.codewars.com/users/Aimwhere/badges/small)
+
 ## 🧰 Technical Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JS](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
